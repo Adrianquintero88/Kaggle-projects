@@ -2,9 +2,7 @@
 
 This repository contains the codes from several Kaggle competitions.
 
-Authors: Adrian Quintero and Emmanuel Lesaffre.
-Main responsible for the code: Adrian Quintero
-
+Author: Adrian Quintero.
 
 
 The projects were designed for the following competitions:
